@@ -1,6 +1,6 @@
 # Frontend Mentor - Recipe page
 
-Frontend Mentor - [Social links profile](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm)
+Frontend Mentor - [Recipe page](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm)
 
 ## Table of contents
 
@@ -48,4 +48,4 @@ excited to learn more.
 ## Author
 
 - Frontend Mentor - [@rahulpaul127](https://www.frontendmentor.io/profile/rahulpaul127)
-- Twitter - [@rahulpaul127](https://x.com/rahulpaul127
+- Twitter - [@rahulpaul127](https://x.com/rahulpaul127)
